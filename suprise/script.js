@@ -35,42 +35,12 @@ const CONFIG = {
   ],
 
   TIMELINE: [
-  {
-    date: 'The Beginning',
-    title: 'Where Our Story Started',
-    desc: 'The day two strangers met and unknowingly began writing the most beautiful chapter of our lives together.',
-    emoji: '🤍'
-  },
-  {
-    date: 'First Memories',
-    title: 'Falling for You',
-    desc: 'Every conversation, every smile, and every little moment slowly turned into something called love.',
-    emoji: '💌'
-  },
-  {
-    date: 'Growing Together',
-    title: 'Our Beautiful Journey',
-    desc: 'We learned, laughed, cried, and grew stronger together through every season of our story.',
-    emoji: '🌸'
-  },
-  {
-    date: 'Every Moment',
-    title: 'Creating Memories',
-    desc: 'Every photo, every hug, and every laugh became a memory I will cherish forever.',
-    emoji: '📸'
-  },
-  {
-    date: 'Always Us',
-    title: 'Through Every Chapter',
-    desc: 'No matter what life brings, my favorite place will always be right beside you.',
-    emoji: '💞'
-  },
-  {
-    date: 'Happy Anniversary',
-    title: 'Another Year With You',
-    desc: 'Thank you for another beautiful year of love, happiness, and unforgettable memories. Here's to many more anniversaries together. I love you always.',
-    emoji: '🥂'
-  },
+    { date: 'The Beginning', title: 'Where Our Story Began', desc: 'The day our paths crossed and a beautiful journey of love quietly began.', emoji: '🤍' },
+    { date: 'A Special Chapter', title: 'Falling in Love', desc: 'Every conversation, every smile, and every little moment slowly became the reason I fell for you.', emoji: '💌' },
+    { date: 'A Beautiful Journey', title: 'Growing Together', desc: 'Through every joy and every challenge, we learned to love, understand, and support each other.', emoji: '🌸' },
+    { date: 'Our Sweet Memories', title: 'Countless Beautiful Moments', desc: 'Every laugh, every hug, and every adventure became memories that I will treasure forever.', emoji: '📸' },
+    { date: 'Forever Us', title: 'Still Choosing You', desc: 'No matter how much time passes, my heart will always choose you over and over again.', emoji: '💞' },
+    { date: 'Happy Anniversary', title: 'Another Year Together', desc: 'Today we celebrate another year of love, laughter, and unforgettable memories. Thank you for being my home, my happiness, and my forever.', emoji: '🥂' },
 ],
 
   PLAYLIST: [
