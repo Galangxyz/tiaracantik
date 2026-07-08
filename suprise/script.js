@@ -35,13 +35,43 @@ const CONFIG = {
   ],
 
   TIMELINE: [
-    { date: 'The Very Beginning', title: 'First Time We Met', desc: 'The day the world seemed to spin a little faster and everything felt different from before.', emoji: '✨' },
-    { date: 'A Magical Moment', title: 'Our First Conversation', desc: 'The first words spoken, the first laughter shared — the beginning of thousands of stories we would write together.', emoji: '💬' },
-    { date: 'A Beautiful Memory', title: 'Our First Outing', desc: 'A small adventure that felt like a trip to the best place on earth, simply because you were there.', emoji: '🌿' },
-    { date: 'A Precious Moment', title: 'Laughter That Never Ended', desc: 'The moment we laughed until it hurt and I realised this is a feeling I want to hold on to forever.', emoji: '😄' },
-    { date: 'A Sweet Memory', title: 'Beautiful Silence Together', desc: 'The comfortable quiet beside you feels warmer than a thousand words ever could.', emoji: '🌙' },
-    { date: 'Today', title: 'Your Very Special Birthday', desc: 'Celebrating you, your journey, and all the wonder you have brought into my life.', emoji: '🎂' },
-  ],
+  {
+    date: 'The Beginning',
+    title: 'Where Our Story Started',
+    desc: 'The day two strangers met and unknowingly began writing the most beautiful chapter of our lives together.',
+    emoji: '🤍'
+  },
+  {
+    date: 'First Memories',
+    title: 'Falling for You',
+    desc: 'Every conversation, every smile, and every little moment slowly turned into something called love.',
+    emoji: '💌'
+  },
+  {
+    date: 'Growing Together',
+    title: 'Our Beautiful Journey',
+    desc: 'We learned, laughed, cried, and grew stronger together through every season of our story.',
+    emoji: '🌸'
+  },
+  {
+    date: 'Every Moment',
+    title: 'Creating Memories',
+    desc: 'Every photo, every hug, and every laugh became a memory I will cherish forever.',
+    emoji: '📸'
+  },
+  {
+    date: 'Always Us',
+    title: 'Through Every Chapter',
+    desc: 'No matter what life brings, my favorite place will always be right beside you.',
+    emoji: '💞'
+  },
+  {
+    date: 'Happy Anniversary',
+    title: 'Another Year With You',
+    desc: 'Thank you for another beautiful year of love, happiness, and unforgettable memories. Here's to many more anniversaries together. I love you always.',
+    emoji: '🥂'
+  },
+],
 
   PLAYLIST: [
     { name: 'Shape Of My Heart', artist: 'Backstreet Boys', emoji: '🎵', duration: '1:00', url: 'https://smail.my.id/cloud/tvBJ12wx1' },
