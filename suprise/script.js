@@ -29,9 +29,9 @@ const CONFIG = {
   ],
 
   POLAROIDS: [
-    { caption: 'Our very first sunset together', rotate: -6, url: 'https://Galangxyz.github.io/bkp/Picsart_26-06-26_02-37-02-810.jpg' },
-    { caption: 'Our favourite café in the corner of the city', rotate: 4, url: 'https://Galangxyz.github.io/bkp/Picsart_26-05-27_16-06-02-558.png' },
-    { caption: 'First time at the beach, just the two of us', rotate: -3, url: 'https://galangxyz.github.io/bkp/IMG-20260606-WA0003.jpg' }
+    { caption: 'Bukan yang paling sempurna, tapi yang paling berarti.', rotate: -6, url: 'https://Galangxyz.github.io/bkp/Picsart_26-06-26_02-37-02-810.jpg' },
+    { caption: 'Terima kasih sudah memilih tetap tinggal. ❤️', rotate: 4, url: 'https://Galangxyz.github.io/bkp/Picsart_26-05-27_16-06-02-558.png' },
+    { caption: 'Semoga semesta selalu menjaga kita berdua.', rotate: -3, url: 'https://galangxyz.github.io/bkp/IMG-20260606-WA0003.jpg' }
   ],
 
   TIMELINE: [
