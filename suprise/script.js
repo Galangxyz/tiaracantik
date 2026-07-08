@@ -29,7 +29,7 @@ const CONFIG = {
   ],
 
   POLAROIDS: [
-    { caption: 'Bukan yang paling sempurna, tapi yang paling berarti.', rotate: -6, url: 'https://Galangxyz.github.io/bkp/Picsart_26-06-26_02-37-02-810.jpg' },
+    { caption: 'Bukan yang paling sempurna, tapi yang paling berarti.', rotate: -6, url: 'https://Galangxyz.github.io/bkp/6EEB832A-2F90-4479-8E71-E6975FE7D08F.jpeg' },
     { caption: 'Terima kasih sudah memilih tetap tinggal. ❤️', rotate: 4, url: 'https://Galangxyz.github.io/bkp/Picsart_26-05-27_16-06-02-558.png' },
     { caption: 'Semoga semesta selalu menjaga kita berdua.', rotate: -3, url: 'https://galangxyz.github.io/bkp/IMG-20260606-WA0003.jpg' }
   ],
